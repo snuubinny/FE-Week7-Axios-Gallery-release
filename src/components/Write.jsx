@@ -33,7 +33,7 @@ const CommentInput = styled.textarea`
   background-color: white;
   border: none;
   resize: none;
-  outline: none;
+  
 `;
 
 const SubmitButton = styled.button`
