@@ -13,9 +13,9 @@ const PhtoContainer = styled.div`
   height: 600px;
   background-color: white;
   display: flex;
-  flex-direction: column; /* 세로 방향 정렬 */
-  justify-content: center; /* 수평 중앙 정렬 */
-  align-items: center; /* 수직 중앙 정렬 */
+  flex-direction: column; 
+  justify-content: center; 
+  align-items: center; 
   margin-top: 30px;
 `;
 
